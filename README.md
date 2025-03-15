@@ -12,31 +12,31 @@ Can be fully customizable buttons.
 - **Multiple Dialog Types**: 
     - Yes/No:
 
-        ![Yes/No Massage](.\pictures\yes-no-massage.png)
+        ![Yes/No Massage](pictures/yes-no-massage.png)
 
     - Yes/No/Continue
 
-        ![Yes/No/Continue Massage](.\pictures\3-button-massage.png)
+        ![Yes/No/Continue Massage](pictures/3-button-massage.png)
 
     - Info
 
-        ![Info Massage](.\pictures\info-massage.png)
+        ![Info Massage](pictures/info-massage.png)
 
     - Warning
 
-        ![Warning Massage](.\pictures\warning-massage.png)
+        ![Warning Massage](pictures/warning-massage.png)
 
     - Error
 
-        ![Error Massage](.\pictures\error-massage.png)
+        ![Error Massage](pictures/error-massage.png)
 
     - Instruction (Shows a QDialog box with a given Image)
 
-        ![Instruction Massage](.\pictures\instruction-pictue-massage.png)
+        ![Instruction Massage](pictures/instruction-pictue-massage.png)
 
     - ComboBox for user selection from a list
 
-        ![Selection list Massage](.\pictures\list-selection-massage.png)
+        ![Selection list Massage](pictures/list-selection-massage.png)
 
 
 ## Requirements
